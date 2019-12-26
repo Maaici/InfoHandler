@@ -1,0 +1,450 @@
+{
+  "special_detail": {
+    "1": [
+      {
+        "id": "63335",
+        "school_id": "1729",
+        "special_id": "33",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "小学教育（师范）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63369",
+        "school_id": "1729",
+        "special_id": "45",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "英语（师范）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63342",
+        "school_id": "1729",
+        "special_id": "164",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "电气工程及其自动化",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63343",
+        "school_id": "1729",
+        "special_id": "172",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "计算机科学与技术（软件开发方向，与北京中关村软件园合作共建）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63341",
+        "school_id": "1729",
+        "special_id": "172",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "计算机科学与技术（云计算方向）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63339",
+        "school_id": "1729",
+        "special_id": "236",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "食品科学与工程",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63340",
+        "school_id": "1729",
+        "special_id": "141",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "应用心理学",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63361",
+        "school_id": "1729",
+        "special_id": "300",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "财务管理",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63362",
+        "school_id": "1729",
+        "special_id": "317",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "物流管理",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63363",
+        "school_id": "1729",
+        "special_id": "35",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "体育教育（师范）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63364",
+        "school_id": "1729",
+        "special_id": "31",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "艺术教育（师范）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "63370",
+        "school_id": "1729",
+        "special_id": "172",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "计算机科学与技术（云计算方向）",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "172728",
+        "school_id": "1729",
+        "special_id": "4800",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "化学",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "172729",
+        "school_id": "1729",
+        "special_id": "1282",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "机器人工程",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "172730",
+        "school_id": "1729",
+        "special_id": "4557",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "商务英语",
+        "special_type": "1",
+        "type_name": "本科"
+      },
+      {
+        "id": "172731",
+        "school_id": "1729",
+        "special_id": "4799",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "物理学",
+        "special_type": "1",
+        "type_name": "本科"
+      }
+    ],
+    "2": [
+      {
+        "id": "63360",
+        "school_id": "1729",
+        "special_id": "1002",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "体育教育（师范、自治区级优势）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63350",
+        "school_id": "1729",
+        "special_id": "891",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "物流管理（中央财政支持的和广西急需物流人才培养建设点）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63365",
+        "school_id": "1729",
+        "special_id": "1000",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "音乐教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63366",
+        "school_id": "1729",
+        "special_id": "1001",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "美术教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63367",
+        "school_id": "1729",
+        "special_id": "908",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "艺术设计（环境艺术设计）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63358",
+        "school_id": "1729",
+        "special_id": "1026",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "文秘",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63359",
+        "school_id": "1729",
+        "special_id": "1010",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "汉语",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63357",
+        "school_id": "1729",
+        "special_id": "992",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "语文教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63346",
+        "school_id": "1729",
+        "special_id": "1012",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "应用英语",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63347",
+        "school_id": "1729",
+        "special_id": "1011",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "商务英语",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63348",
+        "school_id": "1729",
+        "special_id": "994",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "英语教育（师范、自治区级优质、优势）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63349",
+        "school_id": "1729",
+        "special_id": "1003",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "思想政治教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63351",
+        "school_id": "1729",
+        "special_id": "882",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "市场营销",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63352",
+        "school_id": "1729",
+        "special_id": "993",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "数学教育（师范、自治区级优势）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63353",
+        "school_id": "1729",
+        "special_id": "784",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "计算机网络技术",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63354",
+        "school_id": "1729",
+        "special_id": "995",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "物理教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63355",
+        "school_id": "1729",
+        "special_id": "568",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "数控技术",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63356",
+        "school_id": "1729",
+        "special_id": "765",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "应用电子技术",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63368",
+        "school_id": "1729",
+        "special_id": "719",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "汽车运用与维修技术",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63332",
+        "school_id": "1729",
+        "special_id": "996",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "化学教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63333",
+        "school_id": "1729",
+        "special_id": "1007",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "科学教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63334",
+        "school_id": "1729",
+        "special_id": "631",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "食品生物技术",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63336",
+        "school_id": "1729",
+        "special_id": "864",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "审计",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63331",
+        "school_id": "1729",
+        "special_id": "863",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "会计",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63345",
+        "school_id": "1729",
+        "special_id": "876",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "工商企业管理",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63344",
+        "school_id": "1729",
+        "special_id": "990",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "学前教育（师范、自治区级特色）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63338",
+        "school_id": "1729",
+        "special_id": "991",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "小学教育（师范）",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      },
+      {
+        "id": "63337",
+        "school_id": "1729",
+        "special_id": "1085",
+        "year": "2019",
+        "is_video": 2,
+        "special_name": "人力资源管理",
+        "special_type": "2",
+        "type_name": "专科（高职）"
+      }
+    ],
+    "3": "",
+    "4": []
+  }
+}

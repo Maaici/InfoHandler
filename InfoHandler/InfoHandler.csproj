@@ -44,11 +44,13 @@
   <ItemGroup>
     <Compile Include="Data.cs" />
     <Compile Include="HttpHelper.cs" />
+    <Compile Include="ProcessBar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="simple.json" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json">

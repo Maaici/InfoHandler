@@ -6,7 +6,7 @@ namespace InfoHandler
 {
     public static class Data
     {
-        public static string ConnectionString = "Data Source=E:\\MyCode\\Maaici\\InfoHandler\\InfoHandler\\NewsWeb.db";
+        public static string ConnectionString = "Data Source=E:\\2_MyCodes\\InfoHandler\\InfoHandler\\NewsWeb.db";
 
         public static int ExcuteSql(string sql) {
             SQLiteConnection mycon = null;
